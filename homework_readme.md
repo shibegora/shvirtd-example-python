@@ -1,3 +1,5 @@
+!!! Изменинй в main.py не вносились. Можно сравнивать просто открыв изначальный https://github.com/gaidarvu/shvirtd-example-python/blob/main/main.py
+
 Задание 1
 
 Пункт 2
