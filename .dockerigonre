@@ -1,0 +1,17 @@
+schema.pdf
+*.md
+main.py
+compose.yaml
+.env
+.git
+.gitignore
+*.log
+*.tmp
+*.temp
+proxy.yaml
+LICENSE
+haproxy/
+nginx/
+Dockerfile.python
+.dockerignore
+*.sh
